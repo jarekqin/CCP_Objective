@@ -1,0 +1,9 @@
+{
+    "search.useReplacePreview": false,
+    "editor.dragAndDrop": false,
+    "files.associations": {
+        "ostream": "cpp",
+        "string": "cpp",
+        "typeinfo": "cpp"
+    }
+}
